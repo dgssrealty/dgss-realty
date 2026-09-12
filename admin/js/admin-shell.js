@@ -96,7 +96,7 @@ function renderAdminShell() {
           </button>
         </div>
       </aside>
-      <div class="admin-mobile-overlay" id="adminMobileOverlay" style="display:none;position:fixed;inset:0;background:rgba(74,14,27,.5);z-index:890;"></div>
+      <div class="admin-mobile-overlay" id="adminMobileOverlay" style="display:none;position:fixed;inset:0;background:rgba(11,35,64,.5);z-index:890;"></div>
       <div class="admin-main">
         <div class="admin-topbar">
           <div style="display:flex;align-items:center;gap:12px;">
